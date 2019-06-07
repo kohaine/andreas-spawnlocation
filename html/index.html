@@ -42,9 +42,11 @@
 	});
 
 	$(".button").click(function () {
+		const Location = this.id
+
 		$("body").fadeOut(500, function () {
 			$.post("http://andreas-spawnlocation/spawnPlayer", JSON.stringify({
-				["Location"]: this.id
+				["Location"]: Location
 			}));
 		});
 	})
