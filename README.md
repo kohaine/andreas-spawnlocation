@@ -8,4 +8,4 @@
 You will have to figure out by yourself how to use the script 
 ``` 
 **Note** 
-If you change the name of the folder, the script will stop working  Please do not reupload this file
+```If you change the name of the folder, the script will stop working  Please do not reupload this file```
