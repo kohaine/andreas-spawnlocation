@@ -4,7 +4,7 @@ ui_page 'html/index.html'
 
 client_scripts {
     'config.lua',
-	'client.lua',
+    'client.lua',
 }
 
 files {
